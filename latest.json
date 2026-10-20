@@ -1,8 +1,16 @@
 {
     "app": "videodon-crm",
     "channel": 1,
-    "updated": "2026-10-20 08:13:55 UTC",
+    "updated": "2026-10-20 10:42:03 UTC",
     "versions": [
+        {
+            "version": "1.11.1",
+            "file": "packages/videodon-crm-update-1.11.1.vdu",
+            "sha256": "bad7f78aef25b35ed27d43c1d7b0677b758abc51f8b392bccb4ed779ac1538cf",
+            "size": 1446771,
+            "requires": "",
+            "date": "2026-10-20"
+        },
         {
             "version": "1.11.0",
             "file": "packages/videodon-crm-update-1.11.0.vdu",
